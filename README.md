@@ -1,3 +1,5 @@
+РАБОТА: https://graf346.youtrack.cloud/projects/0-1
+
 Yandex.Practice-QA-Engineer
 Курс от Яндекс.Практикума по специальности инженер по тестированию
 
